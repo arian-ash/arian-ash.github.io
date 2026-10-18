@@ -30,3 +30,22 @@
     height: 20px;
 }
 
+a{
+    color: #2b2b2b;
+    text-decoration: none;
+}
+
+.span1{
+    animation: sweeping 1s linear 1s infinite normal forwards;
+}
+@keyframes sweeping {
+    from{
+        margin: 0;
+        display: none;
+    }
+    to{
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+    }
+}
