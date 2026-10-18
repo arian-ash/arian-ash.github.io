@@ -3,7 +3,7 @@
 @font-face {
     font-family: 'Roboto';
     src: url('../fonts/Roboto-Regular.eot');
-    src: url('Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    src: url('../fonts/Roboto-Regular.eot') format('embedded-opentype'),
         url('../fonts/Roboto-Regular.woff2') format('woff2'),
         url('../fonts/Roboto-Regular.woff') format('woff'),
         url('../fonts/Roboto-Regular.ttf') format('truetype');
@@ -21,3 +21,12 @@
     font-size: 11px;
     color: rgb(0,0,0);
 }
+/*NavBar*/
+.div1{
+    width: calc(100vw - 217px);
+}
+.img-logo{
+    width: 100px;
+    height: 20px;
+}
+
