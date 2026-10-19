@@ -30,17 +30,36 @@
     height: 20px;
 }
 
-a{
-    color: #2b2b2b;
-    text-decoration: none;
-}
 
 /*Part 1*/
 
-.first-header1,.para2,.second-header1,.link3,.para3,.link4,.third-header1{
+.first-header1,.para2,.second-header1,.link3,.para3,.link4,.third-header1,.para4{
     font-family: Roboto;
     color: white;
 }
 
+/*Part 2*/
+.forth-header1,.first-header2,.para5{
+    font-family: Roboto;
+}
 
+.btn1{
+    width: 285px;
+    height: 47px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
 
+.btn1,.link6{
+    font-family: Roboto;
+}
+
+.para5,.para6,.para7,.para8{
+    font-family: Roboto;
+}
+
+/*Part 3*/
+
+.div4,.div5{
+    font-family: Roboto;
+}
