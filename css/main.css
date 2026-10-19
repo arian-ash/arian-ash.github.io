@@ -34,22 +34,13 @@ a{
     color: #2b2b2b;
     text-decoration: none;
 }
-/*paragraph 1 Animation*/
-.para1{
-    animation: sweeping 4s linear 4s infinite normal forwards;
-    font-family: Roboto;
-}
-@keyframes sweeping {
-    from{
-        transform: translateX(+300%);
-    }
-    to{
-        transform: translateX(-300%);
-    }
-}
+
 /*Part 1*/
 
-.header1{
+.first-header1,.para2,.second-header1,.link3,.para3,.link4,.third-header1{
     font-family: Roboto;
     color: white;
 }
+
+
+
