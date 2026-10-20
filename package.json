@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "bootstrap": "^5.3.8"
-  }
+  },
+  "name": "arian-ash.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arian-ash/arian-ash.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arian-ash/arian-ash.github.io/issues"
+  },
+  "homepage": "https://github.com/arian-ash/arian-ash.github.io#readme"
 }
