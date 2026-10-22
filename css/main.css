@@ -113,7 +113,7 @@
     font-family: Roboto;
 }
 
-/*Part 9*/
+/*Part 9 & 10*/
 .span1{
     font-size: calc(18px + 1.25vw);
 }
@@ -124,7 +124,27 @@
     font-family: Roboto;
 }
 
-.link12{
+.link12,.link13{
+    font-family: Roboto;
+    font-size: 10px;
+    line-height: 18px;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    min-height: 34px;
+    padding: 8px 12px;
+}
+
+
+.div31,.div32{
     font-family: Roboto;
 }
+/*Part 11*/
+
+.first-header3,.second-header3{
+    font-family: Roboto;
+}
+.link14{
+    font-family: Roboto;
+}
+/*Part 12*/
 
