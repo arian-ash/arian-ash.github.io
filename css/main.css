@@ -148,3 +148,21 @@
 }
 /*Part 12*/
 
+.fifth-header1{
+    top: 200px;
+}
+
+.link15{
+    border: 1px solid #FFFFFF;
+    font-family: Roboto;
+    top: 290px;
+    left: 110px;
+}
+
+@media all and (max-width:767px) {
+    .link15{
+        min-height: 11.7333333333vw;
+        min-width: 45.0666666667vw;
+    }
+}
+
